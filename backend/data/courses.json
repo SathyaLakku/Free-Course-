@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Computer Science",
+    "provider": "edX",
+    "domain": "Computer Science",
+    "platform": "HarvardX (CS50)",
+    "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science",
+    "description": "Harvard's legendary CS50 course. Learn computer science basics, algorithms, and more.",
+    "free": true
+  },
+  {
+    "id": 2,
+    "title": "Python for Everybody",
+    "provider": "Coursera",
+    "domain": "Computer Science",
+    "platform": "University of Michigan",
+    "link": "https://www.coursera.org/specializations/python",
+    "description": "A beginner-friendly Python programming specialization.",
+    "free": true
+  },
+  {
+    "id": 3,
+    "title": "Algorithms, Part I",
+    "provider": "Coursera",
+    "domain": "Computer Science",
+    "platform": "Princeton University",
+    "link": "https://www.coursera.org/learn/algorithms-part1",
+    "description": "Learn algorithms and data structures from Princeton professors.",
+    "free": true
+  },
+  {
+    "id": 4,
+    "title": "Data Science: R Basics",
+    "provider": "edX",
+    "domain": "Data Science",
+    "platform": "HarvardX",
+    "link": "https://www.edx.org/course/data-science-r-basics",
+    "description": "Kickstart your data science journey with R.",
+    "free": true
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning Crash Course",
+    "provider": "Google",
+    "domain": "Data Science",
+    "platform": "Google",
+    "link": "https://developers.google.com/machine-learning/crash-course",
+    "description": "Google's self-paced intro to machine learning.",
+    "free": true
+  },
+  {
+    "id": 6,
+    "title": "Digital Marketing Basics",
+    "provider": "Udemy",
+    "domain": "Business",
+    "platform": "Udemy",
+    "link": "https://www.udemy.com/course/digital-marketing-basics/",
+    "description": "Learn fundamentals of digital marketing.",
+    "free": true
+  },
+  {
+    "id": 7,
+    "title": "The Science of Well-Being",
+    "provider": "Coursera",
+    "domain": "Personal Development",
+    "platform": "Yale University",
+    "link": "https://www.coursera.org/learn/the-science-of-well-being",
+    "description": "Yale's famous happiness course.",
+    "free": true
+  },
+  {
+    "id": 8,
+    "title": "Front-End Web Development Quick Start",
+    "provider": "Udemy",
+    "domain": "Computer Science",
+    "platform": "Udemy",
+    "link": "https://www.udemy.com/course/front-end-web-development-quick-start/",
+    "description": "HTML, CSS, JS basics for beginners.",
+    "free": true
+  },
+  {
+    "id": 9,
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "provider": "edX",
+    "domain": "Computer Science",
+    "platform": "IBM",
+    "link": "https://www.edx.org/course/introduction-to-artificial-intelligence-ai",
+    "description": "Basics of AI, applications and more.",
+    "free": true
+  },
+  {
+    "id": 10,
+    "title": "Excel Skills for Business: Essentials",
+    "provider": "Coursera",
+    "domain": "Business",
+    "platform": "Macquarie University",
+    "link": "https://www.coursera.org/learn/excel-essentials",
+    "description": "Improve your Excel skills for work.",
+    "free": true
+  }
+]
